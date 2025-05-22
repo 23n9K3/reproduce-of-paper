@@ -1,0 +1,4 @@
+environment：ubuntu16.04  gmp6.3.0
+gcc -o mrfrc mrfr.c -lgmp
+./mrfrc [algorithm] 10000
+
