@@ -1,0 +1,2 @@
+# reproduce-of-paper
+reproduction of Algorithms_for_the_Minimal_Rational_Fraction_Representation_of_Sequences_Revisited
